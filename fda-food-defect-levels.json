@@ -1,0 +1,1749 @@
+[
+    {
+        "commodity": "Allspice, Ground",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insect Filth",
+                "action_level": "Average of 30 or more insect fragments per 10 grams",
+                "method": "AOAC 981.21"
+            },
+            {
+                "defect_name": "Rodent filth",
+                "action_level": "Average of 1 or more rodent hairs per 10 grams",
+                "method": "AOAC 981.21"
+            }
+        ],
+        "defect_source": "Insect fragments - pre/post harvest and processing insect infestation. Rodent hair - post harvest and/or processing contamination with animal hair or excreta",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Allspice, Whole",
+        "defect_action_levels": [
+            {
+                "defect_name": "Mold",
+                "action_level": "Average of 5% or more berries by weight are moldy",
+                "method": "MPM-V32",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-8-spices-condiments-flavors-and-crude-drugs"
+            }
+        ],
+        "defect_source": ": Preharvest and/or post harvest infection",
+        "significance": "Potential health hazard - may contain mycotoxin producing fungi"
+    },
+    {
+        "commodity": "Apple Butter",
+        "defect_action_levels": [
+            {
+                "defect_name": "Mold",
+                "action_level": "Average of mold count is 12% or more",
+                "method": "AOAC 975.51"
+            },
+            {
+                "defect_name": "Rodent filth",
+                "action_level": "Average of 4 or more rodent hairs per 100 grams of apple butter",
+                "method": "AOAC 945.76"
+            },
+            {
+                "defect_name": "Insects",
+                "action_level": "Average of 5 or more whole or equivalent insects (not counting mites, aphids, thrips, or scale insects) per 100 grams of apple butter",
+                "method": "AOAC 945.76"
+            }
+        ],
+        "defect_source": "Mold - post harvest infection. Rodent hair - post harvest and/or processing contamination with animal hair. Whole or equivalent insects - preharvest, and/or post harvest and/or processing insect infestation,",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Apricots, Canned",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insect filth",
+                "action_level": "Average of 2% or more by count has been damaged or infected by insects",
+                "method": "MPM-V51",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-9-fruits-and-fruit-products-v-51-v-78"
+            }
+        ],
+        "defect_source": "Pre-harvest insect infestation",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Asparagus, Canned or Frozen",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insect filth",
+                "action_level": "10% by count of spears or pieces are infested with 6 or more attached asparagus beetle eggs and/or sacs",
+                "method": "MPM-V93",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-11-vegetables-and-vegetable-products"
+            },
+            {
+                "defect_name": "Insects",
+                "action_level": "Asparagus contains an average of 40 or more thrips per 100 grams OR Insects (whole or equivalent) of 3mm or longer have an average aggregate length of 7mm or longer per 100 grams of asparagus",
+                "method": "MPM-V93",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-11-vegetables-and-vegetable-products"
+            }
+        ],
+        "defect_source": "Pre-harvest insect infestation",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Bay (Laurel) Leaves",
+        "defect_action_levels": [
+            {
+                "defect_name": "Mold",
+                "action_level": "Average of 5% or more pieces by weight are moldy",
+                "method": "MPM-V32 *",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-8-spices-condiments-flavors-and-crude-drugs"
+            },
+            {
+                "defect_name": "Insect filth",
+                "action_level": "Average of 5% or more pieces by weight are insect-infested",
+                "method": "MPM-V32",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-8-spices-condiments-flavors-and-crude-drugs"
+            },
+            {
+                "defect_name": "Mammalian excreta",
+                "action_level": "Average of 1 mg or more mammalian excreta per pound after processing",
+                "method": "MPM-V32",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-8-spices-condiments-flavors-and-crude-drugs"
+            }
+        ],
+        "defect_source": "Mold - preharvest infection. Insect infestation - preharvest and/or post harvest and/or processing insect infestation. Mammalian excreta - post harvest and/or processing animal contamination",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Beets, Canned",
+        "defect_action_levels": [
+            {
+                "defect_name": "Rot",
+                "action_level": "Average of 5% or more pieces by weight with dry rot"
+            }
+        ],
+        "defect_source": "Preharvest mold infection",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Berries: Drupelet, Canned and Frozen (blackberries, raspberries, etc.)",
+        "defect_action_levels": [
+            {
+                "defect_name": "Mold",
+                "action_level": "Average mold count is 60% or more",
+                "method": "AOAC 955.47"
+            },
+            {
+                "defect_name": "Insects and larvae",
+                "action_level": "Average of 4 or more larvae per 500 grams OR Average of 10 or more whole insects or equivalent per 500 grams (excluding thrips, aphids and mites)",
+                "method": "AOAC 981.20"
+            }
+        ],
+        "defect_source": "Insects and larvae - preharvest insect infestation. Mold - post harvest infection",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Berries: Lingon, Canned (European cranberry)",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insect larvae",
+                "action_level": "Average of 3 or more larvae per pound in a minimum of 12 subsamples",
+                "method": "MPM-V64",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-9-fruits-and-fruit-products-v-51-v-78#v64"
+            }
+        ],
+        "defect_source": "Insects-pre-harvest insect infestation",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Berries: Multer, Canned",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insects",
+                "action_level": "Average of 40 or more thrips per No.2 can in all subsamples and 20% of subsamples are materially infested",
+                "method": "MPM-V64",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-9-fruits-and-fruit-products-v-51-v-78#v64"
+            }
+        ],
+        "defect_source": "Insects-pre-harvest insect infestation",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Broccoli, Frozen",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insects and mites",
+                "action_level": "Average of 60 or more aphids and/or thrips and/or mites per 100 grams",
+                "method": "AOAC 945.82"
+            }
+        ],
+        "defect_source": "Pre-harvest insect infestation",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Brussels Sprouts, Frozen",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insects",
+                "action_level": "Average of 30 or more aphids and/or thrips per 100 grams",
+                "method": "MPM-V95",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-11-vegetables-and-vegetable-products#v95"
+            }
+        ],
+        "defect_source": "Pre-harvest insect infestation",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Capsicum Pods",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insect filth and/or mold",
+                "action_level": "Average of more than 3% of pods by weight are insect-infested and/or moldy",
+                "method": "MPM-V32",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-8-spices-condiments-flavors-and-crude-drugs#v32"
+            },
+            {
+                "defect_name": "Mammalian excreta",
+                "action_level": "Average of more than 1mg mammalian excreta per pound",
+                "method": "MPM-V32",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-8-spices-condiments-flavors-and-crude-drugs#v32"
+            }
+        ],
+        "defect_source": "Insect infested - preharvest and/or post harvest insect infestation. Mold - preharvest and/or post harvest infection, Mammalian excreta - post harvest and/or processing animal contamination",
+        "significance": "Aesthetic, Potential health hazard - mold may contain mycotoxin producing fungi"
+    },
+    {
+        "commodity": "Ground Capsicum (excluding paprika)",
+        "defect_action_levels": [
+            {
+                "defect_name": "Mold",
+                "action_level": "Average mold count is more than 20%",
+                "method": "AOAC 945.94"
+            },
+            {
+                "defect_name": "Insect filth",
+                "action_level": "Average of more than 50 insect fragments per 25 grams",
+                "method": "AOAC 978.22"
+            },
+            {
+                "defect_name": "Rodent filth",
+                "action_level": "Average of more than 6 rodent hairs per 25 grams",
+                "method": "AOAC 978.22"
+            }
+        ],
+        "defect_source": "Mold - pre-harvest and/or post harvest mold infection. Insect fragments - pre-harvest and/or post harvest and/or processing insect infestation. Rodent hair - pre-harvest and/or post harvest and/or processing contamination with animal hair or excreta",
+        "significance": "Aesthetic, Mold may contain mycotoxin producing fungi"
+    },
+    {
+        "commodity": "Ground Paprika",
+        "defect_action_levels": [
+            {
+                "defect_name": "Mold",
+                "action_level": "Average mold count is more than 20%",
+                "method": "AOAC 945.94"
+            },
+            {
+                "defect_name": "Insect filth",
+                "action_level": "Average of more than 75 insect fragments per 25 grams",
+                "method": "AOAC 977.25B"
+            },
+            {
+                "defect_name": "Rodent filth",
+                "action_level": "Average of more than 11 rodent hairs per 25 grams",
+                "method": "AOAC 977.25B"
+            }
+        ],
+        "defect_source": "Mold - pre and/or post harvest mold infection. Insect fragments - pre and/or post harvest and/or processing insect infestation. Rodent hair - pre and/or post harvest and/or processing contamination with animal hair or excreta",
+        "significance": "Aesthetic, Potential health hazard - mold may contain mycotoxin producing fungi"
+    },
+    {
+        "commodity": "Cassia (or) Cinnamon Bark, Whole",
+        "defect_action_levels": [
+            {
+                "defect_name": "Mold",
+                "action_level": "Average of 5% or more pieces by weight are moldy",
+                "method": "MPM-V32",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-8-spices-condiments-flavors-and-crude-drugs#v32"
+            },
+            {
+                "defect_name": "Insect filth",
+                "action_level": "Average of 5% or more pieces by weight are insect-infested",
+                "method": "MPM-V32",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-8-spices-condiments-flavors-and-crude-drugs#v32"
+            },
+            {
+                "defect_name": "Mammalian excreta",
+                "action_level": "Average of 1 mg or more mammalian excreta per pound",
+                "method": "MPM-V32",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-8-spices-condiments-flavors-and-crude-drugs#v32"
+            }
+        ],
+        "defect_source": "Mold - post harvest mold infection. Insect infestation - post harvest and/or processing. Mammalian excreta - post harvest and/or processing animal contamination.",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Cinnamon, Ground",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insect filth",
+                "action_level": "Average of 400 or more insect fragments per 50 gram",
+                "method": "AOAC 968.38b"
+            },
+            {
+                "defect_name": "Rodent filth",
+                "action_level": "Average of 11 or more rodent hairs per 50 grams",
+                "method": "AOAC 968.38b"
+            }
+        ],
+        "defect_source": "Insect fragments - post harvest and/or processing insect infestation. Rodent hair - post harvest and/or processing contamination with animal hair or excreta",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Cherries: Brined and Maraschino",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insect filth",
+                "action_level": "Average of 5% or more pieces are rejects due to maggots",
+                "method": "MPM-V48",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-9-fruits-and-fruit-products-v-42-v-48#v48"
+            }
+        ],
+        "defect_source": "Pre-harvest insect infestation",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Cherries: Fresh, Canned, or Frozen",
+        "defect_action_levels": [
+            {
+                "defect_name": "Rot",
+                "action_level": "Average of 7% or more pieces are rejects due to rot",
+                "method": "MPM-V48",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-9-fruits-and-fruit-products-v-42-v-48#v48"
+            },
+            {
+                "defect_name": "Insect filth",
+                "action_level": "Average of 4% or more pieces are rejects due to insects other than maggots",
+                "method": "MPM-V48",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-9-fruits-and-fruit-products-v-42-v-48#v48"
+            }
+        ],
+        "defect_source": "Insect reject - Pre-harvest and/or post harvest insect infestation, Rot reject - pre-harvest mold infection",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Cherry Jam",
+        "defect_action_levels": [
+            {
+                "defect_name": "Mold",
+                "action_level": "Average mold count is 30% or more",
+                "method": "MPM-V61",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-9-fruits-and-fruit-products-v-51-v-78#v61"
+            }
+        ],
+        "defect_source": "Pre-harvest mold infection",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Chocolate and Chocolate Liquor",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insect filth",
+                "action_level": "Average is 60 or more insect fragments per 100 grams when 6 100-gram subsamples are examined OR Any 1 subsample contains 90 or more insect fragments",
+                "method": "AOAC 965.38"
+            },
+            {
+                "defect_name": "Rodent filth",
+                "action_level": "Average is 1 or more rodent hairs per 100 grams in 6 100-gram subsamples examined OR Any 1 subsample contains 3 or more rodent hairs",
+                "method": "AOAC 965.38"
+            },
+            {
+                "defect_name": "Shell",
+                "action_level": "For chocolate liquor, if the shell is in excess of 2% calculated on the basis of alkali-free nibs",
+                "method": "AOAC 968.10-970.23"
+            }
+        ],
+        "defect_source": "Insect fragments - post harvest and/or processing insect infestation, Rodent hair - post harvest and/or processing contamination with animal hair or excreta, Shell - processing contamination",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Citrus Fruit Juices, Canned",
+        "defect_action_levels": [
+            {
+                "defect_name": "Mold",
+                "action_level": "Average mold count is 10% or more",
+                "method": "AOAC 970.75"
+            },
+            {
+                "defect_name": "Insects and insect eggs",
+                "action_level": "5 or more Drosophila and other fly eggs per 250 ml or 1 or more maggots per 250 ml",
+                "method": "AOAC 970.72"
+            }
+        ],
+        "defect_source": "Mold - processing contamination, Fly eggs and/or maggots - post harvest insect infestation",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Cloves",
+        "defect_action_levels": [
+            {
+                "defect_name": "Stems",
+                "action_level": "Average of 5% or more stems by weight",
+                "method": "MPM-V32",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-8-spices-condiments-flavors-and-crude-drugs#v32"
+            }
+        ],
+        "defect_source": "Harvest",
+        "significance": "Aesthetic, economic adulteration"
+    },
+    {
+        "commodity": "Cocoa Beans",
+        "defect_action_levels": [
+            {
+                "defect_name": "Mold",
+                "action_level": "More than 4% of beans by count are moldy",
+                "method": "MPM-V18",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-4-chocolate-sugars-and-related-products"
+            },
+            {
+                "defect_name": "Insect filth",
+                "action_level": "More than 4% of beans by count are insect-infested including insect-damaged",
+                "method": "MPM-V18",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-4-chocolate-sugars-and-related-products"
+            },
+            {
+                "defect_name": "Insect filth and/or mold",
+                "action_level": "More than 6% of beans by count are insect-infested or moldy NOTE: Level differs when both filth and mold are present"
+            },
+            {
+                "defect_name": "Mammalian excreta",
+                "action_level": "Average of 10 mg or more mammalian excreta per pound",
+                "method": "MPM-V18",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-4-chocolate-sugars-and-related-products"
+            }
+        ],
+        "defect_source": "Mold - post harvest infection, Insect infested/damaged - post harvest and/or processing insect infestation, Mammalian excreta - post harvest and/or processing animal contamination",
+        "significance": "Aesthetic, Potential health hazard - may contain mycotoxin producing fungi"
+    },
+    {
+        "commodity": "Cocoa Powder Press Cake",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insect filth",
+                "action_level": "Average of 75 or more insect fragments per subsample of 50 grams when 6 subsamples are examined OR Any 1 subsample contains 125 or more insect fragments",
+                "method": "AOAC 965.38"
+            },
+            {
+                "defect_name": "Rodent filth",
+                "action_level": "Average in 6 or more subsamples is 2 or more rodent hairs per subsample of 50 grams OR Any 1 subsample contains 4 or more rodent hairs",
+                "method": "AOAC 965.38"
+            },
+            {
+                "defect_name": "Shell",
+                "action_level": "2% or more shell calculated on the basis of alkali-free nibs.",
+                "method": "AOAC 968.10-970.23"
+            }
+        ],
+        "defect_source": "Insect fragments - post harvest and/or processing insect infestation, Rodent hair - post harvest and/or processing contamination with animal hair or excreta, Shell - processing contamination",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Coffee Beans, Graded Green",
+        "defect_action_levels": [
+            {
+                "defect_name": "Grade defects",
+                "action_level": "Beans are poorer than Grade 8 of the New York Green Coffee Association",
+                "method": "MPM-V6",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-1-beverages-and-beverage-materials"
+            }
+        ],
+        "defect_source": "Quality - processing",
+        "significance": "Aesthetic, economic adulteration"
+    },
+    {
+        "commodity": "Coffee Beans, Green",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insect filth and insects",
+                "action_level": "Average 10% or more by count are insect-infested or insect-damaged Note: If live external infestation is present use the Compliance Policy Guide (CPG) titled \" Food Storage and Warehousing-Adulteration-Filth\" (CPG 580.100) in accordance with \"Interpretation of Insect Filth\" (CPG 555.600)",
+                "method": "MPM-V1",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-1-beverages-and-beverage-materials"
+            },
+            {
+                "defect_name": "Mold",
+                "action_level": "Average of 10% or more beans by count are moldy",
+                "method": "MPM-V1",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-1-beverages-and-beverage-materials"
+            }
+        ],
+        "defect_source": "Insect infested/damaged - preharvest and/or post harvest and/or processing insect infestation, Mold - post harvest and/or processing infection",
+        "significance": "Aesthetic, Potential health hazard - mold may contain mycotoxin producing fungi"
+    },
+    {
+        "commodity": "Condimental Seeds Other than Fennel Seeds and Sesame Seeds",
+        "defect_action_levels": [
+            {
+                "defect_name": "Mammalian excreta",
+                "action_level": "Average of 3 mg or more of mammalian excreta per pound",
+                "method": "MPM-V32",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-8-spices-condiments-flavors-and-crude-drugs#v32"
+            }
+        ],
+        "defect_source": "Post harvest and/or processing animal contamination",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Corn: Sweet Corn, Canned",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insect larvae",
+                "action_level": "Insect larvae (corn ear worms, corn borers) 2 or more 3mm or longer larvae, cast skins, larval or cast skin fragments of corn ear worms or corn borer and the aggregate length of such larvae, cast skins, larval or cast skin fragments exceeds 12 mm in 24 pounds (24 No. 303 cans or equivalent)",
+                "method": "AOAC 973.61"
+            }
+        ],
+        "defect_source": "Pre-harvest insect infestation",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Corn Husks for Tamales",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insect filth",
+                "action_level": "Average of 5 % or more husks by weight are insect-infested (including insect-damaged)",
+                "method": "MPM-V115",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-11-vegetables-and-vegetable-products#v115"
+            },
+            {
+                "defect_name": "Mold",
+                "action_level": "Average of 5% or more husks by weight are moldy",
+                "method": "MPM-V115",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-11-vegetables-and-vegetable-products#v115"
+            }
+        ],
+        "defect_source": "Insect infested - preharvest and/or processing insect infestation, Mold - preharvest and/or post harvest and/or processing infection",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Cornmeal",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insects",
+                "action_level": "Average of 1 or more whole insects (or equivalent) per 50 grams",
+                "method": "AOAC 981.19"
+            },
+            {
+                "defect_name": "Insect filth",
+                "action_level": "Average of 25 or more insect fragments per 25 grams",
+                "method": "AOAC 981.19"
+            },
+            {
+                "defect_name": "Rodent filth",
+                "action_level": "Average of 1 or more rodent hairs per 25 grams OR Average of 1 or more rodent excreta fragment per 50 grams",
+                "method": "AOAC 981.19"
+            }
+        ],
+        "defect_source": "Insects and insect fragments - preharvest and/or post harvest and/or processing insect infestation, Rodent hair and excreta fragments - post harvest and/or processing contamination with animal hair or excreta",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Cranberry Sauce",
+        "defect_action_levels": [
+            {
+                "defect_name": "Mold",
+                "action_level": "Average mold count is more than 15% OR The mold count of any 1 subsample is more than 50%",
+                "method": "AOAC 970.76"
+            }
+        ],
+        "defect_source": "Pre-harvest and/or post harvest infection",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Cumin Seed",
+        "defect_action_levels": [
+            {
+                "defect_name": "Sand and grit",
+                "action_level": "Average of 9.5% or more ash and/or 1.5% or more acid insoluble ash",
+                "method": "AOAC 975.48"
+            }
+        ],
+        "defect_source": "Harvest contamination",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Currant Jam, Black",
+        "defect_action_levels": [
+            {
+                "defect_name": "Mold",
+                "action_level": "Average mold count is 75% or more",
+                "method": "MPM-V61",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-9-fruits-and-fruit-products-v-51-v-78#v61"
+            }
+        ],
+        "defect_source": "Post harvest and/or processing infection",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Currants",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insect filth",
+                "action_level": "5% or more, by count, wormy in the average of the subsamples",
+                "method": "MPM-V53",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-9-fruits-and-fruit-products-v-51-v-78#v53"
+            }
+        ],
+        "defect_source": "Pre-harvest insect infestation",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Curry Powder",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insect filth",
+                "action_level": "Average of 100 or more insect fragments per 25 grams",
+                "method": "AOAC 975.48"
+            },
+            {
+                "defect_name": "Rodent filth",
+                "action_level": "Average of 4 or more rodent hairs per 25 grams",
+                "method": "AOAC 975.48"
+            }
+        ],
+        "defect_source": "Insect fragments - preharvest and/or post harvest and/or processing insect infestation, Rodent hair - post harvest and/or processing contamination with animal hair or excreta",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Date Material (Chopped, Sliced, (or) Macerated)",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insects",
+                "action_level": "10 or more dead insects (whole or equivalent) in 1 or more subsamples OR 5 or more dead insects (whole or equivalent) per 100 grams",
+                "method": "MPM-V53",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-9-fruits-and-fruit-products-v-51-v-78#v53"
+            },
+            {
+                "defect_name": "Pits",
+                "action_level": "2 or more pits and/or pit fragments 2 mm or longer measured in the longest dimension per 900 grams",
+                "method": "MPM-V53",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-9-fruits-and-fruit-products-v-51-v-78#v53"
+            }
+        ],
+        "defect_source": "Insects - preharvest and/or post harvest and/or processing insect infestation, Pits - processing",
+        "significance": "Insects - Aesthetic, Pits - mouth/tooth injury"
+    },
+    {
+        "commodity": "Dates, Pitted",
+        "defect_action_levels": [
+            {
+                "defect_name": "Multiple",
+                "action_level": "Average of 5% or more dates by count are rejects (moldy, dead insects, insect excreta, sour, dirty, and/or worthless) as determined by macroscopic sequential examination",
+                "method": "MPM-V53",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-9-fruits-and-fruit-products-v-51-v-78#v53"
+            },
+            {
+                "defect_name": "Pits",
+                "action_level": "Average of 2 or more pits and/or pit fragments 2 mm or longer in the longest dimension per 100 dates",
+                "method": "MPM-V53",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-9-fruits-and-fruit-products-v-51-v-78#v53"
+            }
+        ],
+        "defect_source": "Insects, insect excreta, & mold - preharvest and/or post harvest and/or processing, Sour & worthless - preharvest, Dirt - harvest contamination, Pits - processing",
+        "significance": "Insects, insect excreta, mold, sour & worthless, dirt - Aesthetic, Pits - mouth/tooth injury"
+    },
+    {
+        "commodity": "Dates, Whole",
+        "defect_action_levels": [
+            {
+                "defect_name": "Multiple",
+                "action_level": "Average of 5% or more dates by count are rejects (moldy, dead insects, insect excreta, sour, dirty, and/or worthless) as determined by macroscopic sequential examination",
+                "method": "MPM-V53",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-9-fruits-and-fruit-products-v-51-v-78#v53"
+            }
+        ],
+        "defect_source": "Insects, insect excreta, & mold - preharvest and/or post harvest and/or processing, Sour & worthless - preharvest, Dirt - harvest contamination",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Eggs and Other Egg Products, Frozen",
+        "defect_action_levels": [
+            {
+                "defect_name": "Decomposition",
+                "action_level": "2 or more cans decomposed and at least 2 subsamples from decomposed cans have direct microscopic counts of 5 million or more bacteria per gram",
+                "method": "AOAC 939.14, 940.36, 940.37"
+            }
+        ],
+        "defect_source": "Processing (incubator rejects)",
+        "significance": "Economic"
+    },
+    {
+        "commodity": "Fennel Seed",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insects",
+                "action_level": "20% or more of subsamples contain insects",
+                "method": "MPM-V32",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-8-spices-condiments-flavors-and-crude-drugs#v32"
+            },
+            {
+                "defect_name": "Mammalian excreta",
+                "action_level": "20% or more of subsamples contain mammalian excreta OR average of more than 3 mg of mammalian excreta per pound",
+                "method": "MPM-V32",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-8-spices-condiments-flavors-and-crude-drugs#v32"
+            }
+        ],
+        "defect_source": "Insects - preharvest and/or post harvest insect infestation, Excreta - post harvest and/or processing animal contamination",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Fig Paste",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insects",
+                "action_level": "Contains 13 or more insect heads per 100 grams of fig paste in each of 2 or more subsamples",
+                "method": "AOAC 964.23"
+            }
+        ],
+        "defect_source": "Pre-harvest and/or post harvest and/or processing insect infestation",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Figs",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insect filth and/or mold and/or dirty fruit or pieces of fruit",
+                "action_level": "Average of 10% or more by count are insect-infested and/or moldy and/or dirty fruit or pieces of fruit",
+                "method": "MPM-V53",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-9-fruits-and-fruit-products-v-51-v-78#v53"
+            }
+        ],
+        "defect_source": "Insect infested - Pre-harvest and/or post harvest infestation, Moldy - preharvest infection. Dirt - harvest contamination",
+        "significance": "Aesthetic, Potential health hazard - may contain mycotoxin producing fungi"
+    },
+    {
+        "commodity": "Tullibees, Ciscoes, Inconnus, Chubs, and Whitefish",
+        "defect_action_levels": [
+            {
+                "defect_name": "Parasites (cysts)",
+                "action_level": "50 parasitic cysts per 100 pounds (whole or fillets), provided that 20% of the fish examined are infested",
+                "method": "MPM-V28",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-7-seafood#v28"
+            }
+        ],
+        "defect_source": "Pre-harvest infection",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Blue Fin and other Fresh Water Herring",
+        "defect_action_levels": [
+            {
+                "defect_name": "Parasites (cysts)",
+                "action_level": "60 parasitic cysts per 100 fish (fish averaging 1 pound or less) or 100 pounds of fish averaging over 1 pound), provided that 20% of the fish examined are infested",
+                "method": "MPM-V28",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-7-seafood#v28"
+            }
+        ],
+        "defect_source": "Pre-harvest infection",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Red Fish and Ocean Perch",
+        "defect_action_levels": [
+            {
+                "defect_name": "Parasites (copepods)",
+                "action_level": "3 % of the fillets examined contain 1 or more copepods accompanied by pus pockets",
+                "method": "MPM-V28",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-7-seafood#v28"
+            }
+        ],
+        "defect_source": "Pre-harvest infection",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Ginger, Whole",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insect filth and/or mold",
+                "action_level": "Average of 3% or more pieces by weight are insect-infested and/or moldy",
+                "method": "MPM-V32",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-8-spices-condiments-flavors-and-crude-drugs#v32"
+            },
+            {
+                "defect_name": "Mammalian excreta",
+                "action_level": "Average of 3 mg or more of mammalian excreta per pound",
+                "method": "MPM-V32",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-8-spices-condiments-flavors-and-crude-drugs#v32"
+            }
+        ],
+        "defect_source": "Insect infestation - post harvest and/or processing, Mold - post harvest and/or processing infection, Mammalian excreta - post harvest and/or processing animal contamination",
+        "significance": "Aesthetic, Potential health hazard - may contain mycotoxin producing fungi"
+    },
+    {
+        "commodity": "Greens, Canned",
+        "defect_action_levels": [
+            {
+                "defect_name": "Mildew",
+                "action_level": "Average of 10% or more of leaves, by count or weight, showing mildew over 1/2\" in diameter",
+                "method": "AOAC 967.23"
+            }
+        ],
+        "defect_source": "Pre-harvest infection",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Hops",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insects",
+                "action_level": "Average of more than 2,500 aphids per 10 grams",
+                "method": "AOAC 967.23"
+            }
+        ],
+        "defect_source": "Pre-harvest infestation",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Macaroni and Noodle Products",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insect filth",
+                "action_level": "Average of 225 insect fragments or more per 225 grams in 6 or more subsamples",
+                "method": "AOAC 969.41"
+            },
+            {
+                "defect_name": "Rodent filth",
+                "action_level": "Average of 4.5 rodent hairs or more per 225 grams in 6 or more subsamples",
+                "method": "AOAC 969.41"
+            }
+        ],
+        "defect_source": "Insect fragments - preharvest and/or post harvest and/or processing infestation. Rodent hair - post harvest and/or processing contamination with animal hair or excreta",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Mace",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insect filth and/or mold",
+                "action_level": "Average of 3% or more pieces by weight are insect-infested and/or moldy",
+                "method": "MPM-V32",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-8-spices-condiments-flavors-and-crude-drugs#v32"
+            },
+            {
+                "defect_name": "Mammalian excreta",
+                "action_level": "Average of 3 mg or more of mammalian excreta per pound",
+                "method": "MPM-V32",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-8-spices-condiments-flavors-and-crude-drugs#v32"
+            },
+            {
+                "defect_name": "Foreign matter",
+                "action_level": "Average of 1.5% or more of foreign matter through a 20-mesh sieve",
+                "method": "MPM-V32",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-8-spices-condiments-flavors-and-crude-drugs#v32"
+            }
+        ],
+        "defect_source": "Insect infestation - preharvest and/or post harvest and/or processing. Mold - preharvest and/or post harvest infection, Mammalian excreta - post harvest and/or processing animal contamination, Foreign matter - post harvest contamination",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Marjoram, Whole Plant, Unprocessed",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insect filth and/or mold",
+                "action_level": "Average of 5% or more pieces by weight are insect-infested or moldy",
+                "method": "MPM-V32",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-8-spices-condiments-flavors-and-crude-drugs#v32"
+            },
+            {
+                "defect_name": "Mammalian excreta",
+                "action_level": "Average of 1 mg or more mammalian excreta per pound",
+                "method": "MPM-V32",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-8-spices-condiments-flavors-and-crude-drugs#v32"
+            }
+        ],
+        "defect_source": "Insect infestation - preharvest and/or post harvest and/or processing, Mold - post harvest and/or processing infection, Mammalian excreta - post harvest and/or processing animal contamination",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Marjoram, Ground",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insect filth",
+                "action_level": "Average of 1175 or more insect fragments per 10 grams",
+                "method": "AOAC 975.49"
+            },
+            {
+                "defect_name": "Rodent filth",
+                "action_level": "Average of 8 or more rodent hairs per 10 grams",
+                "method": "AOAC 975.49"
+            }
+        ],
+        "defect_source": "Insect fragments - preharvest and/or post harvest and/or processing insect infestation, Rodent hair - post harvest and/or processing contamination with animal hair or excreta",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Marjoram, Unground",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insect filth",
+                "action_level": "Average of 250 or more insect fragments per 10 grams",
+                "method": "AOAC 985.39"
+            },
+            {
+                "defect_name": "Rodent filth",
+                "action_level": "Average of 2 or more rodent hairs per 10 grams",
+                "method": "AOAC 985.39"
+            }
+        ],
+        "defect_source": "Insect fragments - preharvest and/or post harvest and/or processing insect infestation, Rodent hair - processing contamination with animal hair or excreta",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Mushrooms, Canned and Dried",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insects",
+                "action_level": "Average of over 20 or more maggots of any size per 100 grams of drained mushrooms and proportionate liquid or 15 grams of dried mushrooms OR Average of 5 or more maggots 2 mm or longer per 100 grams of drained mushrooms and proportionate liquid or 15 grams of dried mushrooms",
+                "method": "AOAC 967.24"
+            },
+            {
+                "defect_name": "Mites",
+                "action_level": "Average of 75 mites per 100 grams drained mushrooms and proportionate liquid or 15 grams of dried mushrooms",
+                "method": "AOAC 967.24"
+            },
+            {
+                "defect_name": "Decomposition",
+                "action_level": "Average of more than 10% of mushrooms are decomposed",
+                "method": "MPM-V100",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-11-vegetables-and-vegetable-products#v100"
+            }
+        ],
+        "defect_source": "Insects - preharvest insect infestation, Mites - preharvest and/or post harvest infestation, Decomposition - preharvest infection",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Nectars, Apricot, Peach and Pear",
+        "defect_action_levels": [
+            {
+                "defect_name": "Mold",
+                "action_level": "Average mold count is 12% or more"
+            }
+        ],
+        "defect_source": "Pre-harvest infection",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Nutmeg, Whole",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insect filth and/or mold",
+                "action_level": "Average of 10% or more pieces by count are insect-infested and/or moldy",
+                "method": "MPM-V41",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-8-spices-condiments-flavors-and-crude-drugs#v41"
+            }
+        ],
+        "defect_source": "Insect infestation - preharvest and/or post harvest and/or processing, Mold - preharvest and/or post harvest infection",
+        "significance": "Aesthetic, Potential health hazard - may contain mycotoxin producing fungi"
+    },
+    {
+        "commodity": "Nutmeg, Ground",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insect filth",
+                "action_level": "Average of 100 or more insect fragments per 10 grams",
+                "method": "AOAC 979.26"
+            },
+            {
+                "defect_name": "Rodent filth",
+                "action_level": "Average of 1 or more rodent hairs per 10 grams",
+                "method": "AOAC 979.26"
+            }
+        ],
+        "defect_source": "Insect fragments - post harvest and/or processing insect infestation, Rodent hair - post harvest and/or processing contamination with animal hair or excreta",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Nuts, Tree",
+        "defect_action_levels": [
+            {
+                "defect_name": "Multiple Defects",
+                "action_level": "Reject nuts (insect-infested, rancid, moldy, gummy, and shriveled or empty shells) as determined by macroscopic examination at or in excess of the following levels:\n- Almonds: Shelled - 5%, Unshelled - 5%\n- Brazils: Shelled - 5%, Unshelled - 10%\n- Cashew: Shelled - 5%\n- Green Chestnuts: Unshelled - 15%\n- Baked Chestnuts: Unshelled - 10%\n- Dried Chestnuts: Shelled - 5%\n- Filberts: Shelled - 5%, Unshelled - 10%\n- Lichee Nuts: Unshelled - 5%\n- Pecans: Shelled - 5%, Unshelled - 10%\n- Pili Nuts: Shelled - 10%, Unshelled - 15%\n- Pistachios: Shelled - 5%, Unshelled - 10%\n- Walnuts: Shelled - 5%, Unshelled - 10%",
+                "method": "MPM-V81",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-10-nuts-and-nut-products-methods"
+            }
+        ],
+        "defect_source": "Insect infested - preharvest and/or post harvest and/or processing, Mold - preharvest and/or post harvest and/or processing infection, Gummy & shriveled - preharvest physiological condition, Rancidity - post harvest",
+        "significance": "Aesthetic, Potential health hazard - may contain mycotoxin producing fungi"
+    },
+    {
+        "commodity": "Pitted olives",
+        "defect_action_levels": [
+            {
+                "defect_name": "Pits",
+                "action_level": "Average of 1.3 percent or more by count of olives with whole pits and/or pit fragments 2 mm or longer measured in the longest dimension",
+                "method": "MPM-V67",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-9-fruits-and-fruit-products-v-51-v-78#v67"
+            }
+        ],
+        "defect_source": "Processing",
+        "significance": "Mouth/tooth injury"
+    },
+    {
+        "commodity": "Imported Green olives",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insect damage",
+                "action_level": "7% or more olives by count showing damage by olive fruit fly",
+                "method": "MPM-V67",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-9-fruits-and-fruit-products-v-51-v-78#v67"
+            }
+        ],
+        "defect_source": "Pre-harvest insect infestation",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Salad olives",
+        "defect_action_levels": [
+            {
+                "defect_name": "Pits",
+                "action_level": "Average of 1.3 or more olives by count of olives with whole pits and/or pit fragments 2 mm or longer measured in the longest dimension",
+                "method": "MPM-V67",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-9-fruits-and-fruit-products-v-51-v-78#v67"
+            },
+            {
+                "defect_name": "Insect damage",
+                "action_level": "9% or more olives by weight showing damage by olive fruit fly",
+                "method": "MPM-V67",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-9-fruits-and-fruit-products-v-51-v-78#v67"
+            }
+        ],
+        "defect_source": "Pits - processing, Insect damage - preharvest insect infestation",
+        "significance": "Pits - mouth/tooth injury, Insect damage - Aesthetic"
+    },
+    {
+        "commodity": "Salt-cured olives",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insects",
+                "action_level": "Average of 10% or more olives by count with 10 or more scale insects each",
+                "method": "MPM-V67",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-9-fruits-and-fruit-products-v-51-v-78#v67"
+            },
+            {
+                "defect_name": "Mold",
+                "action_level": "Average of 25% or more olives by count are moldy",
+                "method": "MPM-V67",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-9-fruits-and-fruit-products-v-51-v-78#v67"
+            }
+        ],
+        "defect_source": "Scale insects - preharvest infestation, Mold - post harvest and/or processing infection",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Imported Black olives",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insect damage",
+                "action_level": "10% or more olives by count showing damage by olive fruit fly",
+                "method": "MPM-V67",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-9-fruits-and-fruit-products-v-51-v-78#v67"
+            }
+        ],
+        "defect_source": "Pre-harvest insect infestation",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Oregano, Whole Plant, Unprocessed",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insect filth and/or mold weight",
+                "action_level": "Average of 5% or more insect infested and/or moldy pieces by weight",
+                "method": "MPM-V32",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-8-spices-condiments-flavors-and-crude-drugs#v32"
+            },
+            {
+                "defect_name": "Mammalian excreta",
+                "action_level": "Average of 1 mg or more mammalian excreta per pound",
+                "method": "MPM-V32",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-8-spices-condiments-flavors-and-crude-drugs#v32"
+            }
+        ],
+        "defect_source": "Insect infested - preharvest and/or post harvest and/or processing, Mold - post harvest and/or processing infection, Mammalian excreta - post harvest and/or processing animal contamination",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Oregano, Ground",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insect filth",
+                "action_level": "Average of 1250 or more insect fragments per 10 grams",
+                "method": "AOAC 975.49"
+            },
+            {
+                "defect_name": "Rodent filth",
+                "action_level": "Average of 5 or more rodent hairs per 10 grams",
+                "method": "AOAC 975.49"
+            }
+        ],
+        "defect_source": "Insect fragments - preharvest and/or post harvest and/or processing insect infestation, Rodent hair - post harvest and/or processing contamination with animal hair or excreta",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Oregano, Crushed",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insect filth",
+                "action_level": "Average of 300 or more insect fragments per 10 grams",
+                "method": "AOAC 969.44"
+            },
+            {
+                "defect_name": "Rodent filth",
+                "action_level": "Average of 2 or more rodent hairs per 10 grams",
+                "method": "AOAC 969.44"
+            }
+        ],
+        "defect_source": "Insect fragments - preharvest and/or post harvest and/or processing insect infestation, Rodent hair - post harvest and/or processing contamination with animal hair or excreta",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Peaches, Canned and Frozen",
+        "defect_action_levels": [
+            {
+                "defect_name": "Mold/Insect damage",
+                "action_level": "Average of 3% or more fruit by count are wormy or moldy",
+                "method": "MPM-V51",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-9-fruits-and-fruit-products-v-51-v-78"
+            },
+            {
+                "defect_name": "Insects",
+                "action_level": "In 12 1-pound cans or equivalent, one or more larvae and/or larval fragments whose aggregate length exceeds 5 mm",
+                "method": "MPM-V51",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-9-fruits-and-fruit-products-v-51-v-78"
+            }
+        ],
+        "defect_source": "Mold - preharvest and/or post harvest infection, Insect damage - preharvest insect infestation, Larvae - preharvest insect infestation",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Peanut Butter",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insect filth",
+                "action_level": "Average of 30 or more insect fragments per 100 grams",
+                "method": "AOAC 968.35"
+            },
+            {
+                "defect_name": "Rodent filth",
+                "action_level": "Average of 1 or more rodent hairs per 100 grams",
+                "method": "AOAC 968.35"
+            },
+            {
+                "defect_name": "Grit",
+                "action_level": "Gritty taste and water insoluble inorganic residue is more than 25 mg per 100 grams",
+                "method": "AOAC 968.35"
+            }
+        ],
+        "defect_source": "Insect fragments - preharvest and/or post harvest and/or processing insect infestation, Rodent hair - post harvest and/or processing contamination with animal hair or excreta, Grit - harvest contamination",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Peanuts, Shelled",
+        "defect_action_levels": [
+            {
+                "defect_name": "Multiple defects",
+                "action_level": "Average of 5% or more kernels by count are rejects (insect-infested, moldy, rancid, otherwise decomposed, and dirty)",
+                "method": "MPM-V89",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-10-nuts-and-nut-products-methods#v89"
+            },
+            {
+                "defect_name": "Insects",
+                "action_level": "Average of 20 or more whole insects or equivalent in 100-pound bag siftings",
+                "method": "MPM-V89",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-10-nuts-and-nut-products-methods#v89"
+            }
+        ],
+        "defect_source": "Insect infested - post harvest and/or processing infestation, Moldy - preharvest and/or post harvest and/or processing infection, Rancid & decomposed - post harvest abuse, Dirty - harvest contamination.",
+        "significance": "Aesthetic, Potential health hazard - may contain mycotoxin producing fungi"
+    },
+    {
+        "commodity": "Peanuts, Unshelled",
+        "defect_action_levels": [
+            {
+                "defect_name": "Multiple defects",
+                "action_level": "Average of 10% or more peanuts by count are rejects (insect- infested, moldy, rancid, otherwise decomposed, and dirty)",
+                "method": "MPM-V89",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-10-nuts-and-nut-products-methods#v89"
+            }
+        ],
+        "defect_source": "Insect infested - post harvest and/or processing infestation, Mold - preharvest and/or post harvest and/or processing infection, Rancid & decomposed - post harvest abuse",
+        "significance": "Aesthetic, Potential health hazard - may contain mycotoxin producing fungi"
+    },
+    {
+        "commodity": "Peas: Black-Eyed, Cowpeas, Field Peas, Dried",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insect damage",
+                "action_level": "Average of 10% or more by count of class 6 damage or higher in minimum of 12 subsamples",
+                "method": "MPM-V104",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-11-vegetables-and-vegetable-products#v104"
+            }
+        ],
+        "defect_source": "Pre-harvest and/or post harvest insect infestation",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Peas, Black-Eyed Peas, Cowpeas, (Succulent), Canned",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insect larvae",
+                "action_level": "Average of 5 or more cowpea curculio larvae or the equivalent per No. 2 can",
+                "method": "MPM-V104",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-11-vegetables-and-vegetable-products#v104"
+            }
+        ],
+        "defect_source": "Pre-harvest and/or post harvest insect infestation",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Peas and Beans, Dried",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insect filth",
+                "action_level": "Average of 5% or more by count insect-infested and/or insect-damaged by storage insects in a minimum of 12 subsamples",
+                "method": "MPM-V104",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-11-vegetables-and-vegetable-products#v104"
+            }
+        ],
+        "defect_source": "preharvest and/or post harvest and/or processing infestation",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Pepper, Whole (Black & White)",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insect filth and/or insect-mold",
+                "action_level": "Average of 1% or more pieces by weight are infested and/or moldy",
+                "method": "MPM-V39",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-8-spices-condiments-flavors-and-crude-drugs#v39"
+            },
+            {
+                "defect_name": "Mammalian excreta",
+                "action_level": "Average of 1 mg or more mammalian excreta per pound",
+                "method": "MPM-V39",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-8-spices-condiments-flavors-and-crude-drugs#v39"
+            },
+            {
+                "defect_name": "Foreign matter",
+                "action_level": "Average of 1% or more pickings and siftings by weight",
+                "method": "MPM-V39",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-8-spices-condiments-flavors-and-crude-drugs#v39"
+            }
+        ],
+        "defect_source": "Insect infested - post harvest and/or processing infestation, Moldy - post harvest and/or processing infection, Mammalian excreta - post harvest and/or processing animal contamination, Foreign material - post harvest contamination",
+        "significance": "Aesthetic, Potential health hazard - mammalian excreta may contain salmonella"
+    },
+    {
+        "commodity": "Pepper, Ground",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insect filth",
+                "action_level": "Average of 475 or more insect fragments per 50 grams",
+                "method": "AOAC 972.40"
+            },
+            {
+                "defect_name": "Rodent filth",
+                "action_level": "Average of 2 or more rodent hairs per 50 grams",
+                "method": "AOAC 972.40"
+            }
+        ],
+        "defect_source": "Insect fragments - post harvest and/or processing insect infestation, Rodent hair - post harvest and/or processing contamination with animal hair or excreta",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Pineapple, Canned",
+        "defect_action_levels": [
+            {
+                "defect_name": "Mold",
+                "action_level": "Average mold count is 20% or more OR The mold count of any 1 subsample is 60% or more",
+                "method": "AOAC 970.75, MPM-V73"
+            }
+        ],
+        "defect_source": "Processing mold contamination",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Pineapple Juice",
+        "defect_action_levels": [
+            {
+                "defect_name": "Mold",
+                "action_level": "Average mold count is 15% or more OR The mold count of any 1 subsample is 40% or more",
+                "method": "AOAC 970.75"
+            }
+        ],
+        "defect_source": "Processing mold contamination",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Plums, Canned",
+        "defect_action_levels": [
+            {
+                "defect_name": "Rot",
+                "action_level": "Average of 5% or more plums by count with rot spots larger than the area of a circle 12 mm in diameter",
+                "method": "MPM-V51",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-9-fruits-and-fruit-products-v-51-v-78#v51"
+            }
+        ],
+        "defect_source": "Pre-harvest and/or post harvest infection",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Popcorn",
+        "defect_action_levels": [
+            {
+                "defect_name": "Rodent filth",
+                "action_level": "1 or more rodent excreta pellets are found in 1 or more subsamples, and 1 or more rodent hairs are found in 2 or more other subsamples OR 2 or more rodent hairs per pound and rodent hair is found in 50% or more of the subsamples OR 20 or more gnawed grains per pound and rodent hair is found in 50% or more of the subsamples",
+                "method": "AOAC 950.91"
+            },
+            {
+                "defect_name": "Field corn",
+                "action_level": "5% or more by weight of field corn"
+            }
+        ],
+        "defect_source": "Rodent excreta - post harvest and/or processing animal contamination, Rodent hair - post harvest and/or processing contamination with animal hair or excreta, Rodent gnawing - post harvest and/or processing damage, Field corn - harvest contamination",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Potato Chips",
+        "defect_action_levels": [
+            {
+                "defect_name": "Rot",
+                "action_level": "Average of 6% or more pieces by weight contain rot",
+                "method": "MPM-V113",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-11-vegetables-and-vegetable-products#v113"
+            }
+        ],
+        "defect_source": "Pre-harvest and/or post harvest infection",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Prunes Dried and Dehydrated, Low-Moisture",
+        "defect_action_levels": [
+            {
+                "defect_name": "Multiple defects",
+                "action_level": "Average of a minimum of 10 subsamples is 5% or more prunes by count are rejects (insect-infested, moldy or decomposed, dirty, and/or otherwise unfit )",
+                "method": "MPM-V53",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-9-fruits-and-fruit-products-v-51-v-78#v53"
+            }
+        ],
+        "defect_source": "Insect infested - preharvest infestation, Moldy & decomposed - preharvest infection, Dirty - harvest contamination, Otherwise unfit - preharvest condition",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Prunes, Pitted",
+        "defect_action_levels": [
+            {
+                "defect_name": "Pits",
+                "action_level": "Average of 2% or more by count with whole pits and/or pit fragments 2 mm or longer and 4 or more of 10 subsamples of pitted prunes have 2% or more by count with whole pits and/or pit fragments 2 mm or longer",
+                "method": "MPM-V53",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-9-fruits-and-fruit-products-v-51-v-78#v53"
+            }
+        ],
+        "defect_source": "Processing",
+        "significance": "Mouth/tooth injury"
+    },
+    {
+        "commodity": "Puree, Apricot, Peach and Pear",
+        "defect_action_levels": [
+            {
+                "defect_name": "Mold",
+                "action_level": "Average mold count is 12% or more",
+                "method": "AOAC 982.33"
+            }
+        ],
+        "defect_source": "preharvest and/or post harvest and/or processing infection",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Raisins, Natural & Golden",
+        "defect_action_levels": [
+            {
+                "defect_name": "Mold",
+                "action_level": "Average of 10 subsamples is 5% or more, by count, moldy raisins",
+                "method": "MPM-V76",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-9-fruits-and-fruit-products-v-51-v-78#v76"
+            },
+            {
+                "defect_name": "Sand and Grit",
+                "action_level": "Average of 40 mg or more of sand and grit per 100 grams of natural or golden bleached raisins",
+                "method": "MPM-V76",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-9-fruits-and-fruit-products-v-51-v-78#v76"
+            }
+        ],
+        "defect_source": "Mold - post harvest and/or processing infection, Sand - post harvest contamination",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Raisins, Golden",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insects and insect eggs",
+                "action_level": "10 or more whole or equivalent insects and 35 Drosophila eggs per 8 oz.",
+                "method": "AOAC 969.42 & MPM-V76",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-9-fruits-and-fruit-products-v-51-v-78#v76"
+            }
+        ],
+        "defect_source": "Post harvest and/or processing infestation",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Sage, Whole Plant, Unprocessed",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insect filth",
+                "action_level": "Average of 5% or more pieces by weight are insect infested",
+                "method": "MPM-V32",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-8-spices-condiments-flavors-and-crude-drugs#v32"
+            },
+            {
+                "defect_name": "Mammalian excreta",
+                "action_level": "Average of 1 mg or more per pound after processing",
+                "method": "MPM-V32",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-8-spices-condiments-flavors-and-crude-drugs#v32"
+            }
+        ],
+        "defect_source": "Insect infested - preharvest and/or post harvest and/or processing infestation, Mammalian excreta - post harvest and/or processing animal contamination",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Sage, Ground",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insect filth",
+                "action_level": "Average of 200 or more insect fragments per 10 grams",
+                "method": "AOAC 985.38"
+            },
+            {
+                "defect_name": "Rodent filth",
+                "action_level": "Average of 9 or more rodent hairs per 10 grams",
+                "method": "AOAC 985.38"
+            }
+        ],
+        "defect_source": "Insect fragments - preharvest and/or post harvest and/or processing infestation, Rodent hair - post harvest and/or processing contamination with animal hair or excreta",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Sauerkraut",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insects",
+                "action_level": "Average of more than 50 thrips per 100 grams",
+                "method": "AOAC 955.45"
+            }
+        ],
+        "defect_source": "Pre-harvest insect infestation",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Sesame Seeds",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insect filth",
+                "action_level": "Average of 5% or more seeds by weight are insect-infested or damaged",
+                "method": "MPM-V32",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-8-spices-condiments-flavors-and-crude-drugs#v32"
+            },
+            {
+                "defect_name": "Mold",
+                "action_level": "Average of 5% or more seeds by weight are decomposed",
+                "method": "MPM-V32",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-8-spices-condiments-flavors-and-crude-drugs#v32"
+            },
+            {
+                "defect_name": "Mammalian excreta",
+                "action_level": "Average of 5 mg or more mammalian excreta per found",
+                "method": "MPM-V32",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-8-spices-condiments-flavors-and-crude-drugs#v32"
+            },
+            {
+                "defect_name": "Foreign matter",
+                "action_level": "Average of 0.5% or more foreign matter by weight",
+                "method": "MPM-V32",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-8-spices-condiments-flavors-and-crude-drugs#v32"
+            }
+        ],
+        "defect_source": "Insect infested - preharvest and/or post harvest and/or processing infestation, Mold - preharvest infection, Mammalian excreta - post harvest and/or processing animal contamination, Foreign matter - post processing and/or processing contamination",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Spices, Leafy, Other Than Bay Leaves",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insect filth and/or mold",
+                "action_level": "Average of 5% or more pieces by weight are insect-infested and/or moldy",
+                "method": "MPM-V32",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-8-spices-condiments-flavors-and-crude-drugs#v32"
+            },
+            {
+                "defect_name": "Mammalian excreta",
+                "action_level": "Average of 1 mg or more of Mammalian excreta per pound after processing",
+                "method": "MPM-V32",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-8-spices-condiments-flavors-and-crude-drugs#v32"
+            }
+        ],
+        "defect_source": "Insect infested - preharvest and/or post harvest and/or processing infestation, Mold - preharvest and/or post harvest and/or processing infection, Mammalian excreta - post harvest and/or processing animal contamination",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Spinach, Canned or Frozen",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insects and mites",
+                "action_level": "Average of 50 or more aphids, thrips and/or mites per 100 grams OR 2 or more 3 mm or longer larvae and/or larval fragments or spinach worms (caterpillars) whose aggregate length exceeds 12 mm are present in 24 pounds OR Leaf miners of any size average 8 or more per 100 grams or leaf miners 3 mm or longer average 4 or more per 100 grams",
+                "method": "AOAC 974.33"
+            }
+        ],
+        "defect_source": "Pre-harvest infestation",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Strawberries: Frozen Whole or Sliced",
+        "defect_action_levels": [
+            {
+                "defect_name": "Mold",
+                "action_level": "Average mold count of 45% or more and mold count of at least half of the subsamples is 55% or more",
+                "method": "AOAC 952.22"
+            },
+            {
+                "defect_name": "Grit",
+                "action_level": "Berries taste gritty"
+            }
+        ],
+        "defect_source": "Mold - post harvest and/or processing infection, Grit - harvest contamination",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Thyme, Whole Ploant, Unprocessed",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insect filth",
+                "action_level": "Average of 5% or more pieces by weight are insect infested and/or moldy",
+                "method": "MPM-V32",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-8-spices-condiments-flavors-and-crude-drugs#v32"
+            },
+            {
+                "defect_name": "Mammalian excreta",
+                "action_level": "Average of 1 mg or more mammalian excreta per pound after processing",
+                "method": "MPM-V32",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-8-spices-condiments-flavors-and-crude-drugs#v32"
+            }
+        ],
+        "defect_source": "Insect infested - preharvest and/or post harvest and/or processing infestation, Mold - preharvest and/or post harvest and/or processing infection, Mammalian excreta - post harvest and/or processing animal contamination",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Thyme, Ground",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insect filth",
+                "action_level": "Average of 925 or more insect fragments per 10 grams",
+                "method": "AOAC 975.49"
+            },
+            {
+                "defect_name": "Rodent filth",
+                "action_level": "Average of 2 or more rodent hairs per 10 grams",
+                "method": "AOAC 975.49"
+            }
+        ],
+        "defect_source": "Insect fragments - preharvest and/or post harvest and/or processing infestation Rodent hair - post harvest and/or processing contamination with animal hair or excreta",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Thyme, Unground, Processed",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insect filth",
+                "action_level": "Average of 325 insect fragments or more per 10 grams",
+                "method": "AOAC 975.49"
+            },
+            {
+                "defect_name": "Rodent filth",
+                "action_level": "Average of 2 rodent hairs or more per 10 grams",
+                "method": "AOAC 975.49"
+            }
+        ],
+        "defect_source": "Insect fragments - preharvest and/or post harvest and/or processing insect infestation, Rodent hair - post harvest and/or processing contamination with animal hair or excreta",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Tomatoes, Canned",
+        "defect_action_levels": [
+            {
+                "defect_name": "Drosophila fly",
+                "action_level": "Average of 10 or more fly eggs per 500 grams OR 5 or more fly eggs and 1 or more maggots per 500 grams OR 2 or more maggots per 500 grams",
+                "method": "AOAC 955.46"
+            }
+        ],
+        "defect_source": "Pre-harvest and/or post harvest and/or processing insect infestation",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Tomatoes, Canned, with (or) without Juice (Based on Drained Juice)",
+        "defect_action_levels": [
+            {
+                "defect_name": "Mold",
+                "action_level": "Average mold count in 6 subsamples is 15% or more and the counts of all of the subsamples are more than 12%",
+                "method": "AOAC 945.90"
+            }
+        ],
+        "defect_source": "Pre-harvest and/or post harvest and/or processing infection",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Tomatoes, Canned Packed in Tomato Puree (Based on Drained Liquid)",
+        "defect_action_levels": [
+            {
+                "defect_name": "Mold",
+                "action_level": "Average mold count in 6 subsamples is 29% or more and the counts of all of the subsamples are more than 25%",
+                "method": "AOAC 945.90"
+            }
+        ],
+        "defect_source": "Pre-harvest and/or post harvest and/or processing infection",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Tomato Juice",
+        "defect_action_levels": [
+            {
+                "defect_name": "Drosophila fly",
+                "action_level": "Average of 10 or more fly eggs per 100 grams OR 5 or more fly eggs and 1 or more maggots per 100 grams OR 2 or more maggots per 100 grams, in a minimum of 12 subsamples",
+                "method": "AOAC 955.46"
+            },
+            {
+                "defect_name": "Mold",
+                "action_level": "Average mold count in 6 subsamples is 24% or more and the counts of all of the subsamples are more than 20%",
+                "method": "AOAC 965.41"
+            }
+        ],
+        "defect_source": "Fly eggs & maggots - preharvest and/or post harvest and/or processing insect infestation, Mold - preharvest and/or post harvest and/or processing infection",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Tomato Paste, Pizza and other Sauces",
+        "defect_action_levels": [
+            {
+                "defect_name": "Drosophila fly",
+                "action_level": "Average of 30 or more fly eggs per 100 grams OR 15 or more fly eggs and 1 or more maggots per 100 grams OR 2 or more maggots per 100 grams in a minimum of 12 subsamples",
+                "method": "AOAC 955.46"
+            }
+        ],
+        "defect_source": "Pre-harvest and/or post harvest and/or processing insect infestation",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Tomato Puree",
+        "defect_action_levels": [
+            {
+                "defect_name": "Drosophila fly",
+                "action_level": "Average of 20 or more fly eggs per 100 grams OR 10 or more fly eggs and 1 or more maggots per 100 grams OR 2 or more maggots per 100 grams in a minimum of 12 subsamples",
+                "method": "AOAC 955.46"
+            }
+        ],
+        "defect_source": "Pre-harvest and/or post harvest and/or processing insect infestation",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Tomato Paste (or) Puree",
+        "defect_action_levels": [
+            {
+                "defect_name": "Mold",
+                "action_level": "Average mold count in 6 subsamples is 45% or more and the mold counts of all of the subsamples are more than 40%",
+                "method": "AOAC 965.41 **",
+                "method_link": "https://www.fda.gov#note2"
+            }
+        ],
+        "defect_source": "Pre-harvest and/or post harvest and/or processing infection",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Pizza and Other Tomato Sauces",
+        "defect_action_levels": [
+            {
+                "defect_name": "Mold",
+                "action_level": "Average mold count in 6 subsamples is 34% or more and the counts of all of the subsamples are more than 30%",
+                "method": "AOAC 945.92"
+            }
+        ],
+        "defect_source": "Pre-harvest and/or post harvest and/or processing infection",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Tomato Sauce, Undiluted",
+        "defect_action_levels": [
+            {
+                "defect_name": "Mold",
+                "action_level": "Average mold count in 6 subsamples is 45% or more and the mold counts of all of the subsamples are more than 40%",
+                "method": "AOAC 965.41"
+            }
+        ],
+        "defect_source": "Pre-harvest and/or post harvest and/or processing infection",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Tomato Catsup",
+        "defect_action_levels": [
+            {
+                "defect_name": "Mold",
+                "action_level": "Average mold count in 6 subsamples is 55% or more",
+                "method": "AOAC 965.41"
+            }
+        ],
+        "defect_source": "Pre-harvest and/or post harvest and/or processing infection",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Tomato Powder, Except Spray-Dried",
+        "defect_action_levels": [
+            {
+                "defect_name": "Mold",
+                "action_level": "Average mold count in 6 subsamples is 45% or more and the mold counts of all of the subsamples are mold than 40%",
+                "method": "AOAC 972.42"
+            }
+        ],
+        "defect_source": "Pre-harvest and/or post harvest and /or processing infection",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Tomato Powder, Spray-Dried",
+        "defect_action_levels": [
+            {
+                "defect_name": "Mold",
+                "action_level": "Average mold count in 6 subsamples is 67% or more",
+                "method": "AOAC 972.42"
+            }
+        ],
+        "defect_source": "Pre-harvest and/or post harvest and/or processing infection",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Tomato Soup and Tomato Prouducts",
+        "defect_action_levels": [
+            {
+                "defect_name": "Mold",
+                "action_level": "Average mold count in 6 subsamples is 45% or more and the mold counts of all of the subsamples are more than 40%",
+                "method": "AOAC 945.91"
+            }
+        ],
+        "defect_source": "Pre-harvest and/or post harvest and/or processing infection",
+        "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Wheat",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insect damage",
+                "action_level": "Average of 32 or more insect-damaged kernels per 100 grams",
+                "method": "MPM-V15",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-3-grains-and-grain-products"
+            },
+            {
+                "defect_name": "Rodent filth",
+                "action_level": "Average of 9 mg or more rodent excreta pellets and/or pellet fragments per kilogram",
+                "method": "MPM-V15",
+                "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-3-grains-and-grain-products"
+            }
+        ],
+        "defect_source": "Insect damage - preharvest and/or post harvest and/or processing infestation, Excreta - post harvest and/or processing animal contamination.",
+        "significance": "Aesthetic"
+    }
+]
