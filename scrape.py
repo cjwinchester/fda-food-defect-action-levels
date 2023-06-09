@@ -140,6 +140,9 @@ def scrape_data():
             commodity_data['defect_source'] = defect_source
             commodity_data['significance'] = significance
 
+    # don't forget the last one!
+    data_out.append(commodity_data)
+
     with open(f'{FILENAME}.json', 'w') as outfile:
         json.dump(data_out, outfile, indent=4)
 

@@ -1745,5 +1745,22 @@
         ],
         "defect_source": "Insect damage - preharvest and/or post harvest and/or processing infestation, Excreta - post harvest and/or processing animal contamination.",
         "significance": "Aesthetic"
+    },
+    {
+        "commodity": "Wheat Flour",
+        "defect_action_levels": [
+            {
+                "defect_name": "Insect filth",
+                "action_level": "Average of 75 or more insect fragments per 50 grams",
+                "method": "AOAC 972.32"
+            },
+            {
+                "defect_name": "Rodent filth",
+                "action_level": "Average of 1 or more rodent hairs per 50 grams",
+                "method": "AOAC 972.32"
+            }
+        ],
+        "defect_source": "Insect fragments - preharvest and/or post harvest and/or processing insect infestation, Rodent hair - post harvest and/or processing contamination with animal hair or excreta.",
+        "significance": "Aesthetic"
     }
 ]
