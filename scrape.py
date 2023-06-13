@@ -42,7 +42,7 @@ def scrape_data():
 
         if len(defect_name_split) > 1:
             method = ' '.join(defect_name_split[-1].replace('(', '').replace(')', '').split())  # noqa
-            data['method'] = method
+            data['method'] = method.split(' *')[0]
 
         method_link = defect.find('a')
 
@@ -134,7 +134,7 @@ def scrape_data():
 
             defect_source = ' '.join(
                 defect_source.replace('DEFECT SOURCE:', '').split()
-            )
+            ).lstrip(':').strip()
             significance = ' '.join(significance.lstrip(':').split())
 
             commodity_data['defect_source'] = defect_source

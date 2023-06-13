@@ -1,5 +1,5 @@
 # FDA food defect levels handbook
-How many rat hairs in your macaroni before the FDA considers it adulturated? The [FDA food defect levels handbook](https://www.fda.gov/food/ingredients-additives-gras-packaging-guidance-documents-regulatory-information/food-defect-levels-handbook) can tell you!
+How many rat hairs in your macaroni before the FDA considers it adulterated? The [FDA food defect levels handbook](https://www.fda.gov/food/ingredients-additives-gras-packaging-guidance-documents-regulatory-information/food-defect-levels-handbook) can tell you!
 
 This little project [scrapes](https://github.com/cjwinchester/fda-food-defect-action-levels/blob/main/scrape.py) the main data table from this handbook into [a JSON file](https://github.com/cjwinchester/fda-food-defect-action-levels/blob/main/fda-food-defect-levels.json).
 

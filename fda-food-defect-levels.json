@@ -26,7 +26,7 @@
                 "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-8-spices-condiments-flavors-and-crude-drugs"
             }
         ],
-        "defect_source": ": Preharvest and/or post harvest infection",
+        "defect_source": "Preharvest and/or post harvest infection",
         "significance": "Potential health hazard - may contain mycotoxin producing fungi"
     },
     {
@@ -89,7 +89,7 @@
             {
                 "defect_name": "Mold",
                 "action_level": "Average of 5% or more pieces by weight are moldy",
-                "method": "MPM-V32 *",
+                "method": "MPM-V32",
                 "method_link": "https://www.fda.gov/food/laboratory-methods/mpm-v-8-spices-condiments-flavors-and-crude-drugs"
             },
             {
@@ -1648,7 +1648,7 @@
             {
                 "defect_name": "Mold",
                 "action_level": "Average mold count in 6 subsamples is 45% or more and the mold counts of all of the subsamples are more than 40%",
-                "method": "AOAC 965.41 **",
+                "method": "AOAC 965.41",
                 "method_link": "https://www.fda.gov#note2"
             }
         ],
